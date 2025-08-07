@@ -9,4 +9,4 @@ alt: image-alt
 project-url: https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing](https://docs.google.com/document/d/1OSWvrtVYIhW5rKuqMxPq3fQEa_ucBB2bEEZNPE5ZWA0/edit?usp=sharing)
 
 description: Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.
----TryHackMe
+---
