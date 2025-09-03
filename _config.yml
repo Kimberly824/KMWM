@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/kimberly-manear-a8887b282/
+    url: https://www.linkedin.com/in/kimberly-manear
   - title: github
     url: https://github.com/Kimberly824
 
@@ -49,7 +49,7 @@ email:
   email-url: mailto:washingtonmanear82@gmail.com
 
 # Postal address (add as many lines as necessary)
-location:
+location: 
   - line: Columbia, South Carolina
 
 # Credits content
